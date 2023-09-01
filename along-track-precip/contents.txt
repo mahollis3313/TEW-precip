@@ -1,0 +1,1 @@
+This directory contains code for processing three-hourly precip files to get TEW-associated precipitation along TEW tracks
