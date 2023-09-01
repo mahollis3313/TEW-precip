@@ -12,3 +12,4 @@ Remember to check the code for the file temporal spans and resolutions
 #Create Plots
 - TEW_precip_composites.py
 - TEW_precip_plots_matched-unmatched.py
+- SpatialVerificationv2.py
