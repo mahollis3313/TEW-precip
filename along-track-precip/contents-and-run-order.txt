@@ -1,0 +1,14 @@
+#This directory contains code for processing three-hourly precip files to get TEW-associated precipitation along TEW tracks
+
+#Order to use code
+
+Remember to check the code for the file temporal spans and resolutions
+
+##Process Data
+- TEW_precip_box_and_climo.py
+- TEW_precip_box_matches.py
+- annual_precip.py
+
+#Create Plots
+- TEW_precip_composites.py
+- TEW_precip_plots_matched-unmatched.py
